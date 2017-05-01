@@ -1,6 +1,3 @@
 dupka
-dupka w drugim branczu
-proba dwa
 
-sdsds
-ost
+druga wersja
